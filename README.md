@@ -7,7 +7,7 @@
 - 📫 How to reach me: kolasanichetankrishna@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I write code that even suprises me sometimes😄.
--->
+
 ## 🌐 Connect with Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i_chetankrishna/)
